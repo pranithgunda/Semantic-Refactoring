@@ -6,7 +6,8 @@ Project motive is to optimize the webpage of Horiseon site by refactoring non se
 
 ## Webpage Screenshot
 
-![Horiseon Site After Semantic Refactor] (https://github.com/pranithgunda/Semantic-Refactoring/blob/main/Develop/assets/images/Horsieon%20Site%20After%20Semantic%20Refactor.html.png?raw=true)
+![Horiseon Site After Semantic Refactor] (Develop/assets/images/Horsieon Site After Semantic Refactor.html.png)
+
 
 ## Link to Deployed site
 
