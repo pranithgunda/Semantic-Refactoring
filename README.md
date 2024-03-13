@@ -6,9 +6,7 @@ Project motive is to optimize the webpage of Horiseon site by refactoring non se
 
 ## Webpage Screenshot
 
-```md
     ![Horsieon Site After Semantic Refactor](./Develop/assets/images/Horsieon Site After Semantic Refactor.html.png)
-    ```
 
 ## Link to Deployed site
 
